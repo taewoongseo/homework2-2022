@@ -30,7 +30,7 @@ img{
 }
 
 div{
-	height: 100px;
+	min-height: 100px;
 	padding: 20px;
 	border: solid 3px #FFFFFF;
 }
@@ -80,7 +80,7 @@ div{
 }
 
 .green{
-	background-color: #00D800;
+	background-color: #00EB00;
 	text-align: left;
 	margin-right: 50px;
 	border-right: solid 10px;
@@ -105,4 +105,5 @@ footer > p{
 	padding-top: 10px;
 	padding-right: 10px;
 	padding-bottom: 10px;
+	padding-left: 0;
 }
