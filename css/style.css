@@ -20,6 +20,8 @@ p{
 	font-size: 24px;
 	padding-bottom: 15px;
 	padding-left: 15px;
+	padding-top: 0;
+	padding-right: 0;
 }
 
 img{
@@ -80,7 +82,7 @@ div{
 }
 
 .green{
-	background-color: #00EB00;
+	background-color: #008500;
 	text-align: left;
 	margin-right: 50px;
 	border-right: solid 10px;
